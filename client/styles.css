@@ -1,0 +1,86 @@
+body{
+    background-color: rgb(95, 100, 28);
+}
+
+#radio-container {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#item-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.item-pic {
+    width: 200px; 
+    height: 180px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.item-card {
+    background-color: rgb(35, 163, 125);
+    width: 280px;
+    height: 265px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 20px; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 12px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.item-name {
+    font-size: 18px;
+    margin: 5px 0;
+}
+
+
+.btns-container {
+    width: 100%; 
+    display: flex;
+    justify-content: space-evenly;
+    margin: 5px;
+}
+
+.btns-container > button {
+    width: 40px;
+    height: 30px;
+}
+
+#fortune-button, #compliment-button {
+    height: 50px;
+    border-radius: 50%;
+    background-color: rgb(106, 80, 131);
+    border: solid rgb(87, 0, 128) 5px;
+}
+
+
+#radio-container {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+form {
+    width: 350px;
+    height: 350px;
+    background-color: rgb(252, 126, 110);
+    position: relative;
+    display: flex; 
+    flex-direction: column;
+    justify-content: space-evenly; 
+    align-items: center;
+    margin: 30px;
+    border-radius: 20px;
+    border: solid 10px rgb(165, 26, 8);
+}

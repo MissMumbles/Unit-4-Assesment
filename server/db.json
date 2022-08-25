@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "name":"Oran Berry",
+        "rating":4,
+        "imageURL":"https://drive.google.com/uc?export=view&id=1EaF-B6AZ-4J-YnZntGUt4_lOQcZk06vt"
+    },
+    {
+        "id":2,
+        "name":"Perfect Apple",
+        "rating":3,
+        "imageURL":"https://drive.google.com/uc?export=view&id=1ieooxKsntoiRHqDxjOGGyQigICYgu-t6"
+    },
+    {
+        "id":3,
+        "name":"Reviver Seed",
+        "rating":5,
+        "imageURL":"https://drive.google.com/uc?export=view&id=1wxqJVYH5sXhbIJfC8ireYyBAl0wTAb6W"
+    },
+    {
+        "id":4,
+        "name":"Elixir",
+        "rating":4,
+        "imageURL":"https://drive.google.com/uc?export=view&id=1LpmCvt4-ZhNpgBG6PljV4ShbRwiVWxAu"
+    },
+    {
+        "id":5,
+        "name":"Escape Orb",
+        "rating":1,
+        "imageURL":"https://drive.google.com/uc?export=view&id=1mkO8wH-_WDkkTfvviVGmV7JYVjUFx2Cl"
+    },
+    {
+        "id":6,
+        "name":"X-Ray Specs",
+        "rating":5,
+        "imageURL":"https://drive.google.com/uc?export=view&id=1xSGkyKJ2O9arqL81qKAVzPuF9-OCUvtR"
+    }
+]
